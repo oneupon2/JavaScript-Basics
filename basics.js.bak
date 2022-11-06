@@ -1,0 +1,9 @@
+strings = ['a','b','c'];
+
+strings.push('d')
+
+strings.pop()
+
+strings.unshift('z')
+
+console.log(strings)
